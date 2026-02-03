@@ -32,19 +32,22 @@ Tengo formación previa en Argentina y un perfil muy orientado a lo práctico y 
 
 ## Algunos proyectos 👨🏻‍💻
 
+
 ### 🏉 Rugby Highlight Websites
 Sitios web estáticos creados para mostrar highlights deportivos.
 
-- **[Rocco Loprestti Rugby Highlights](https://github.com/Vitolop1/Rocco-Loprestti-Rugby)**  
-  HTML / CSS – presentación visual de contenido multimedia  
+- **Rocco Loprestti Rugby Highlights**  
+  🔹 Código: https://github.com/Vitolop1/Rocco-Loprestti-Rugby  
+  🌐 Sitio: https://vitolop1.github.io/Rocco-Loprestti-Rugby/
 
-- **[Riordan Sweet Highlights](https://github.com/Vitolop1/Riordan-Sweet)**  
-  HTML / CSS – diseño simple y enfocado en media  
+- **Riordan Sweet Highlights**  
+  🔹 Código: https://github.com/Vitolop1/Riordan-Sweet  
+  🌐 Sitio: https://vitolop1.github.io/Riordan-Sweet/
 
-- **[Oliver Fussell Highlights](https://github.com/Vitolop1/Oliver-Fussell)**  
-  HTML / CSS – estructura clara y rápida  
+- **Oliver Fussell Highlights**  
+  🔹 Código: https://github.com/Vitolop1/Oliver-Fussell  
+  🌐 Sitio: https://vitolop1.github.io/Oliver-Fussell/
 
----
 
 ## 📫 Contacto
 
