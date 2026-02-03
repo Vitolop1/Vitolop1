@@ -1,44 +1,56 @@
-# Hi, I’m Vito 👋
+# Hola 👋 soy Vito
 
-Computer Science student based in the U.S., passionate about technology, problem-solving, and building practical solutions.
-
-🎓 Computer Science student  
-💻 Interested in software development, web development, and technical support  
-🛠 Hands-on experience with hardware, troubleshooting, and system setup  
-🌎 Fluent in Spanish, English, and French  
+Soy estudiante de Computer Science en Estados Unidos, con el objetivo de formarme como ingeniero y desarrollarme profesionalmente en el área de tecnología.
+Tengo formación previa en Argentina y un perfil muy orientado a lo práctico y técnico.
 
 ---
 
-## 🧠 What I work with
+## Sobre mí 😃
 
-- Programming fundamentals (C++, Java, Python)
-- Web development (HTML, CSS, basic JavaScript)
+🎓 Estudiante de Computer Science, con estudios previos en Argentina  
+
+🛠 Buscando formarme y crecer profesionalmente como ingeniero  
+
+💻 Interesado en desarrollo de software, desarrollo web y soporte técnico  
+
+🔧 Experiencia práctica en hardware, instalación de software y troubleshooting  
+
+🌎 Hablo español (nativo), inglés (avanzado) y francés (fluido)  
+
+🚀 Actualmente enfocado en seguir aprendiendo programación, estructuras de datos y sistemas
+
+---
+
+## Tecnologías conocidas 👨🏻‍💻
+
+- C++
+- Java
+- Python
+- HTML
+- CSS
 - Git & GitHub
-- Windows systems, software installation & troubleshooting
-- Basic Linux usage
+- Windows systems
+- Linux (básico)
 
 ---
 
-## 🚀 Featured Projects
+## Algunos proyectos 👨🏻‍💻
 
 ### 🏉 Rugby Highlight Websites
-Static websites built with HTML/CSS to showcase athlete highlights.
+Sitios web estáticos creados para mostrar highlights deportivos.
 
-- Rocco Loprestti Rugby Highlights
-- Riordan Sweet Highlights
-- Oliver Fussell Highlights
+- **Rocco Loprestti Rugby Highlights**  
+  HTML / CSS – presentación visual de contenido multimedia  
 
----
+- **Riordan Sweet Highlights**  
+  HTML / CSS – diseño simple y enfocado en media  
 
-## 📈 Currently Learning
-
-- Data structures & algorithms
-- Object-oriented programming
-- Databases and operating systems
-- Better front-end practices
+- **Oliver Fussell Highlights**  
+  HTML / CSS – estructura clara y rápida
 
 ---
 
-## 📫 Let’s connect
+## 📫 Contacto
 
 - GitHub: https://github.com/Vitolop1
+- LinkedIn: (próximamente)
