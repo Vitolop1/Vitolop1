@@ -1,55 +1,48 @@
-# Hola 👋 soy Vito
+# Hi 👋 I’m Vito
 
-## 🎯 Buscando oportunidades como estudiante / junior en tecnología
+## 🎯 Open to opportunities as a student / junior in technology
 
-Soy estudiante de Computer Science en Estados Unidos, con el objetivo de formarme como ingeniero y desarrollarme profesionalmente en el área de tecnología.  
-Tengo formación previa en Argentina y un perfil muy orientado a lo práctico y técnico.
+I am a Computer Science student based in the United States, with the goal of becoming an engineer and developing professionally in the technology field.  
+I have prior academic experience in Argentina and a strong hands-on, technical-oriented profile.
 
 ---
 
-## Tecnologías conocidas 👨🏻‍💻
+## Technologies 👨🏻‍💻
 
-### Lenguajes y herramientas
-
+### Languages and tools
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,windows,linux,php,ps" />
 
+---
 
+## About me 😃
 
+- 🎓 Computer Science student with previous studies in Argentina  
+- 🛠 Focused on growing and developing professionally as an engineer  
+- 💻 Interested in software development, web development, and technical support  
+- 🔧 Hands-on experience with hardware, software installation, and troubleshooting  
+- 🌎 Native Spanish speaker, advanced English, fluent French  
+- 🚀 Currently focused on learning programming, data structures, and systems  
 
 ---
 
-## Sobre mí 😃
-
-- 🎓 Estudiante de Computer Science, con estudios previos en Argentina  
-- 🛠 Buscando formarme y crecer profesionalmente como ingeniero  
-- 💻 Interesado en desarrollo de software, desarrollo web y soporte técnico  
-- 🔧 Experiencia práctica en hardware, instalación de software y troubleshooting  
-- 🌎 Hablo español (nativo), inglés (avanzado) y francés (fluido)  
-- 🚀 Actualmente enfocado en seguir aprendiendo programación, estructuras de datos y sistemas  
-
----
-
-## Algunos proyectos 👨🏻‍💻
-
+## Projects 👨🏻‍💻
 
 ### 🏉 Rugby Highlight Websites
-Sitios web estáticos creados para mostrar highlights deportivos.
+Static websites created to showcase rugby highlights and athletic performance.
 
 - **Rocco Loprestti Rugby Highlights**  
-  🔹 Código: https://github.com/Vitolop1/Rocco-Loprestti-Rugby  
-  🌐 Sitio: https://vitolop1.github.io/Rocco-Loprestti-Rugby/
+  🔹 Code: https://github.com/Vitolop1/Rocco-Loprestti-Rugby  
 
 - **Riordan Sweet Highlights**  
-  🔹 Código: https://github.com/Vitolop1/Riordan-Sweet  
-  🌐 Sitio: https://vitolop1.github.io/Riordan-Sweet/
+  🔹 Code: https://github.com/Vitolop1/Riordan-Sweet  
 
 - **Oliver Fussell Highlights**  
-  🔹 Código: https://github.com/Vitolop1/Oliver-Fussell  
-  🌐 Sitio: https://vitolop1.github.io/Oliver-Fussell/
+  🔹 Code: https://github.com/Vitolop1/Oliver-Fussell  
 
+---
 
-## 📫 Contacto
+## 📫 Contact
 
 - GitHub: https://github.com/Vitolop1  
-- LinkedIn: (próximamente)
+- LinkedIn: (coming soon)
