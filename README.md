@@ -51,12 +51,27 @@
 | Riordan Sweet | [View Site](https://vitolop1.github.io/Riordan-Sweet/) | [Repo](https://github.com/Vitolop1/Riordan-Sweet) |
 | Oliver Fussell | [View Site](https://vitolop1.github.io/Oliver-Fussell/) | [Repo](https://github.com/Vitolop1/Oliver-Fussell) |
 
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=radical)
+
 ---
 
 <div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=blue)
 
 **💼 Actively seeking internships and junior developer positions**
 
 📧 **lopresttivito@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/vito-loprestti-433b79328)
+
+---
+<div align="center">
+  
+### 🤝 Let's Connect!
+I'm actively seeking **internship and junior developer opportunities** where I can contribute and grow.
+
+**Open to:** Full-time | Part-time | Internships | Remote | On-site
+
+</div>
 
 </div>
