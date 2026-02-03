@@ -1,12 +1,13 @@
 <div align="center">
 
 # Hi 👋 I'm Vito
-
 **Computer Science Student | Aspiring Software Engineer | Open to Junior/Intern Opportunities**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopresttivito@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vito-loprestti-433b79328)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitolop1)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=blue)
 
 </div>
 
@@ -51,27 +52,25 @@
 | Riordan Sweet | [View Site](https://vitolop1.github.io/Riordan-Sweet/) | [Repo](https://github.com/Vitolop1/Riordan-Sweet) |
 | Oliver Fussell | [View Site](https://vitolop1.github.io/Oliver-Fussell/) | [Repo](https://github.com/Vitolop1/Oliver-Fussell) |
 
+---
+
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=blue)
 
-**💼 Actively seeking internships and junior developer positions**
-
-📧 **lopresttivito@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/vito-loprestti-433b79328)
-
----
-<div align="center">
-  
 ### 🤝 Let's Connect!
+
 I'm actively seeking **internship and junior developer opportunities** where I can contribute and grow.
 
 **Open to:** Full-time | Part-time | Internships | Remote | On-site
 
-</div>
+📧 **lopresttivito@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/vito-loprestti-433b79328)
 
 </div>
