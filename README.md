@@ -55,8 +55,7 @@
 
 <div align="center">
 
-![Vito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitolop1&theme=radical)
 **💼 Actively seeking internships and junior developer positions**
 
 📧 **lopresttivito@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/vito-loprestti-433b79328)
