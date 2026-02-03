@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi 👋 I'm Vito
+
 **Computer Science Student | Aspiring Software Engineer | Open to Junior/Intern Opportunities**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopresttivito@gmail.com)
@@ -56,10 +57,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="165" />
+</p>
 
 ---
 
