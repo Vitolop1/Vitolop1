@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Vito
+# Hi 😊 I'm Vito
 
 **Computer Science Student | Open to Junior/Intern Opportunities**
 
