@@ -11,7 +11,13 @@ I have prior academic experience in Argentina and a strong hands-on, technical-o
 
 ### Languages and tools
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,windows,linux,php,mysql,mariadb,ps" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,windows,linux,php,mysql,mariadb,ps,pr,ae" />
+
+- Programming: C++, Java, Python, PHP  
+- Web: HTML, CSS  
+- Databases: MySQL, MariaDB (SQL)  
+- Tools: Git, GitHub, Linux, Windows  
+- Design & Video Editing: Photoshop, Premiere Pro, Filmora  
 
 ---
 
