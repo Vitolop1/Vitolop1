@@ -56,7 +56,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical)
-
+---
 <div align="center">
 
 **💼 Actively seeking internships and junior developer positions**
