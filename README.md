@@ -55,15 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="165" />
-</p>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
