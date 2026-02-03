@@ -12,19 +12,10 @@ Tengo formación previa en Argentina y un perfil muy orientado a lo práctico y 
 ### Lenguajes y herramientas
 
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,windows,linux,php" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,windows,linux,php,Photoshop" />
 
 
 
-### En texto (para claridad)
-
-- C++
-- Java
-- Python
-- HTML / CSS
-- Git & GitHub
-- Windows systems
-- Linux (básico)
 
 ---
 
