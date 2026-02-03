@@ -1,10 +1,9 @@
 # Hola 👋 soy Vito
-🎯 **Buscando oportunidades como estudiante / junior en tecnología**
+## 🎯 Buscando oportunidades como estudiante / junior en tecnología
 
-Soy estudiante de Computer Science en Estados Unidos, con el objetivo de formarme como ingeniero y desarrollarme profesionalmente en el área de tecnología.
+Soy estudiante de Computer Science en Estados Unidos, con el objetivo de formarme como ingeniero y desarrollarme profesionalmente en el área de tecnología.  
 Tengo formación previa en Argentina y un perfil muy orientado a lo práctico y técnico.
 
----
 
 ## Tecnologías conocidas 👨🏻‍💻
 
@@ -37,23 +36,20 @@ Tengo formación previa en Argentina y un perfil muy orientado a lo práctico y 
 
 ---
 
----
-
 ## Algunos proyectos 👨🏻‍💻
 
 ### 🏉 Rugby Highlight Websites
 Sitios web estáticos creados para mostrar highlights deportivos.
-- **[Rocco Loprestti Rugby Highlights](https://github.com/Vitolop1/Rocco-Loprestti-Rugby)**
 
-
-- **Rocco Loprestti Rugby Highlights**  
+- **[Rocco Loprestti Rugby Highlights](https://github.com/Vitolop1/Rocco-Loprestti-Rugby)**  
   HTML / CSS – presentación visual de contenido multimedia  
 
-- **Riordan Sweet Highlights**  
+- **[Riordan Sweet Highlights](https://github.com/Vitolop1/Riordan-Sweet)**  
   HTML / CSS – diseño simple y enfocado en media  
 
-- **Oliver Fussell Highlights**  
+- **[Oliver Fussell Highlights](https://github.com/Vitolop1/Oliver-Fussell)**  
   HTML / CSS – estructura clara y rápida
+
 
 ---
 
