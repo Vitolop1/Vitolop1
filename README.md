@@ -5,6 +5,7 @@
 **Computer Science Student | Open to Junior/Intern Opportunities**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopresttivito@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vito-loprestti-433b79328)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitolop1)
 
 </div>
@@ -13,10 +14,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 CS student in the US (previous studies in Argentina)  
-💻 Interested in software development, web dev & technical support  
-🌎 Spanish (native) | English (advanced) | French (fluent)  
-🚀 Currently learning: Data Structures, Algorithms & System Design
+🎓 Computer Science student at University of Lynchburg, VA  
+🇦🇷 Originally from Argentina, bringing a unique perspective and strong work ethic  
+💻 Passionate about building practical solutions through code  
+🌎 Trilingual: Spanish (native) | English (advanced) | French (fluent)  
+🚀 Currently diving deep into: **Data Structures, Algorithms & Database Design**
 
 ---
 
@@ -25,6 +27,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -35,7 +38,12 @@
 
 ## 🚀 Projects
 
-**🏉 Rugby Highlight Websites** - Static sites showcasing athletic performance
+### 🗄️ Cars Database
+**PHP • MySQL** - Full-stack database application for vehicle management  
+[View Code](https://github.com/Vitolop1/Cars_database)
+
+### 🏉 Rugby Highlight Websites
+**HTML • CSS** - Responsive static sites showcasing athletic performance
 
 | Project | Live Demo | Code |
 |---------|-----------|------|
@@ -45,17 +53,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=radical&hide_border=true)
-
----
-
 <div align="center">
 
-**💼 Open to internships and junior dev positions**
+![Vito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues)
 
-📧 lopresttivito@gmail.com
+**💼 Actively seeking internships and junior developer positions**
+
+📧 **lopresttivito@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/vito-loprestti-433b79328)
 
 </div>
