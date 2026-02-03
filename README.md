@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 😊     I'm Vito
+# Hi 👋 I'm Vito
 
-**Computer Science Student | Open to Junior/Intern Opportunities**
+**Computer Science Student | Aspiring Software Engineer | Open to Junior/Intern Opportunities**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopresttivito@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vito-loprestti-433b79328)
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at University of Lynchburg, VA  
+🎓 Computer Science student at University of Lynchburg, VA — on the path to becoming a software engineer  
 🇦🇷 Originally from Argentina, bringing a unique perspective and strong work ethic  
 💻 Passionate about building practical solutions through code  
 🌎 Trilingual: Spanish (native) | English (advanced) | French (fluent)  
@@ -53,10 +53,6 @@
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical)
----
 <div align="center">
 
 **💼 Actively seeking internships and junior developer positions**
