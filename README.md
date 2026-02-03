@@ -44,5 +44,5 @@ Static websites created to showcase rugby highlights and athletic performance.
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Vitolop1  
-- LinkedIn: (coming soon)
+- 📧 Email: lopresttivito@gmail.com  
+- GitHub: https://github.com/Vitolop1
