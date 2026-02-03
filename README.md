@@ -55,8 +55,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=radical&hide_border=true)
 **💼 Actively seeking internships and junior developer positions**
 
 📧 **lopresttivito@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/vito-loprestti-433b79328)
