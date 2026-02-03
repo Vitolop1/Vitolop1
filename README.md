@@ -11,6 +11,9 @@ Tengo formación previa en Argentina y un perfil muy orientado a lo práctico y 
 
 ### Lenguajes y herramientas
 
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,windows,linux" />
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
