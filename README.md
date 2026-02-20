@@ -3,7 +3,7 @@
 # Hi 👋 I'm Vito Loprestti
 
 **Computer Science Student @ University of Lynchburg 🇺🇸**  
-**Aspiring Software Engineer | Building Real-World Projects | Open to Internships**
+**Future Software Engineer | Systems-Oriented | Building Real Things**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopresttivito@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vito-loprestti-433b79328)
@@ -17,32 +17,39 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at the **University of Lynchburg (VA)**  
-🇦🇷 Originally from Argentina — bringing discipline, adaptability, and global perspective  
-💡 Passionate about problem-solving, system design, and building practical software  
-🌎 Trilingual: Spanish (Native) | English (Advanced) | French (Fluent)
+🎓 Computer Science student at **University of Lynchburg (VA)**  
+🇦🇷 Originally from Argentina — driven, disciplined, adaptable  
+🌎 Trilingual: Spanish (Native) | English (Advanced) | French (Fluent)  
 
-Currently focused on:
-- Data Structures & Algorithms
-- Operating Systems & Computer Architecture
-- Databases & Backend Development
-- Writing clean, efficient, and maintainable code
+I’m passionate about:
+- Building real-world software systems
+- Understanding how things work under the hood
+- Writing clean, efficient, maintainable code
+- Turning ideas into scalable solutions
 
-I enjoy turning ideas into working systems — from full-stack applications to structured backend logic.
+Currently diving deep into:
+- Data Structures & Algorithms  
+- Operating Systems & Computer Architecture  
+- Backend Development & Databases  
+- Systems-level programming  
+
+I don’t just want to code — I want to understand the machine.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-### Languages
+### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-### Databases & Tools
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -51,9 +58,13 @@ I enjoy turning ideas into working systems — from full-stack applications to s
 ## 🚀 Featured Projects
 
 ### 🗄️ Cars Database System
-**PHP • MySQL • Full-Stack Web Application**
+**PHP • MySQL • Full-Stack Application**
 
-A vehicle management system with database integration, CRUD operations, and structured backend logic.
+Vehicle management system with:
+- Structured relational database design
+- CRUD operations
+- Backend logic integration
+- Clean UI structure
 
 🔗 [View Repository](https://github.com/Vitolop1/Cars_database)
 
@@ -62,7 +73,7 @@ A vehicle management system with database integration, CRUD operations, and stru
 ### 🏉 Rugby Athlete Portfolio Websites
 **HTML • CSS • Responsive Design**
 
-Designed and deployed multiple static websites showcasing athletic performance and highlights.
+Designed and deployed performance-focused static websites.
 
 | Project | Live Demo | Repository |
 |---------|-----------|------------|
@@ -72,26 +83,58 @@ Designed and deployed multiple static websites showcasing athletic performance a
 
 ---
 
+## 🧠 Currently Building & Learning
+
+- Deepening knowledge in Operating Systems concepts (processes, scheduling, memory)
+- Strengthening algorithmic thinking
+- Improving system design fundamentals
+- Preparing for technical interviews
+- Building stronger backend logic and database structures
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Vito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 Beyond Code
+
+🏉 Former competitive rugby player  
+💪 Athlete mindset: discipline, resilience, consistency  
+🌍 International student navigating tech in a global environment  
+
+I bring the same intensity from the field into engineering.
+
+---
+
 ## 📈 What I'm Looking For
 
-I'm actively seeking:
+Actively seeking:
 
 - Software Engineering Internships  
 - Junior Developer Roles  
-- Backend or Full-Stack Opportunities  
+- Backend or Systems-Oriented Opportunities  
 - Remote or On-Site Positions  
 
-I’m eager to contribute to real engineering teams, learn from experienced developers, and build scalable systems.
+I want to contribute to real engineering teams, solve meaningful problems, and grow fast.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
 
 📧 **lopresttivito@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/vito-loprestti-433b79328)
 
-Always open to networking, collaboration, and new opportunities 🚀
+Always open to networking, collaboration, and ambitious projects 🚀
 
 </div>
