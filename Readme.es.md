@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,25:FFFFFF,45:F6C90E,55:F6C90E,75:FFFFFF,100:74ACDF&height=220&section=header&text=VITO%20LOPRESTTI&fontSize=56&fontColor=1B3A6B&fontAlignY=38&desc=Ciencias%20de%20la%20Computaci%C3%B3n%20%7C%20Backend%20%7C%20Ingenier%C3%ADa%20de%20Sistemas&descAlignY=58&descSize=17&descColor=1B3A6B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,30:FFFFFF,47:FDF3C0,50:F6C90E,53:FDF3C0,70:FFFFFF,100:74ACDF&height=220&section=header&text=VITO%20LOPRESTTI&fontSize=56&fontColor=1B3A6B&fontAlignY=38&desc=Ciencias%20de%20la%20Computaci%C3%B3n%20%7C%20Backend%20%7C%20Ingenier%C3%ADa%20de%20Sistemas&descAlignY=58&descSize=17&descColor=1B3A6B&animation=fadeIn" width="100%"/>
 
 </div>
 

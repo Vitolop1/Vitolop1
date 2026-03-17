@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,28:FFFFFF,48:F6C90E,52:F6C90E,72:FFFFFF,100:74ACDF&height=220&section=header&text=VITO%20LOPRESTTI&fontSize=56&fontColor=1B3A6B&fontAlignY=38&desc=Ciencias%20de%20la%20Computaci%C3%B3n%20%7C%20Backend%20%7C%20Ingenier%C3%ADa%20de%20Sistemas&descAlignY=58&descSize=17&descColor=1B3A6B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,30:FFFFFF,47:FDF3C0,50:F6C90E,53:FDF3C0,70:FFFFFF,100:74ACDF&height=220&section=header&text=VITO%20LOPRESTTI&fontSize=56&fontColor=1B3A6B&fontAlignY=38&desc=Computer%20Science%20%7C%20Backend%20%7C%20Systems%20Engineering&descAlignY=58&descSize=17&descColor=1B3A6B&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-> 🇺🇸 **[View in English](README.md)**
+> 🇦🇷 **[Ver en Español](Readme.es.md)**
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=1B6CA8&center=true&vCenter=true&width=650&lines=Criado+en+Argentina+%F0%9F%87%A6%F0%9F%87%B7+%7C+Estudiando+en+USA+%F0%9F%87%BA%F0%9F%87%B8;Hincha+de+Los+Pumas+%F0%9F%8F%89+y+Gimnasia+y+Tiro+%E2%9D%A4%EF%B8%8F;Backend+%7C+APIs+%7C+Programaci%C3%B3n+de+Sistemas;Tres+paises.+Un+objetivo.+Construir+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=1B6CA8&center=true&vCenter=true&width=650&lines=Raised+in+Argentina+%F0%9F%87%A6%F0%9F%87%B7+%7C+Studying+in+USA+%F0%9F%87%BA%F0%9F%87%B8;Pumas+fan+%F0%9F%8F%89+%7C+Gimnasia+y+Tiro+de+Salta+%E2%9D%A4%EF%B8%8F;Backend+%7C+APIs+%7C+Systems+Engineering;Three+countries.+One+goal.+Ship+software.)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,48 +25,48 @@
 [![RugbyNow](https://img.shields.io/badge/rugby--now.com-74ACDF?style=for-the-badge&logo=vercel&logoColor=white)](https://rugby-now.com)
 [![GitHub](https://img.shields.io/badge/Vitolop1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitolop1)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=74ACDF&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=74ACDF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## ◈ Sobre mí
+## ◈ About
 
 ```
-Estudiante de CS @ University of Lynchburg, Virginia  (Graduación 2026)
-Criado en Argentina 🇦🇷  →  Construyendo en USA 🇺🇸
-3 países · 3 idiomas · 1 obsesión: construir software real
+CS Student @ University of Lynchburg, Virginia  (Class of 2026)
+Raised in Argentina 🇦🇷  →  Now building in the USA 🇺🇸
+3 countries · 3 languages · 1 obsession: shipping real software
 ```
 
-No solo quiero escribir código — quiero **entender la máquina**.
-Desde armar PCs en Salta hasta hacer deploy de sistemas en producción en Virginia,
-siempre aprendí haciendo. **Rápido.**
+I don't just want to write code — I want to **understand the machine**.
+From assembling PCs in Salta to shipping production systems in Virginia,
+I've always learned by doing. **Fast.**
 
-**Enfocado actualmente en:** Arquitectura backend · APIs · Programación de sistemas · Bases de datos
+**Currently focused on:** Backend architecture · APIs · Systems programming · Database design
 
 ---
 
-## ◈ Proyecto Destacado — RugbyNow 🏉
+## ◈ Featured Project — RugbyNow 🏉
 
 <div align="center">
 
 ### 🔗 [rugby-now.com](https://rugby-now.com)
 
-**Resultados en vivo, fixtures y datos de competencias de rugby — construido solo, en producción.**
+**Live rugby results, fixtures & competition data — built solo, shipped to production.**
 
 </div>
 
 ```
-RugbyNow es una plataforma completa para fanáticos del rugby de todo el mundo.
-Datos de partidos reales. Resultados en vivo. Tablas de posiciones.
-Diseñada, arquitectada y desplegada enteramente por mí.
+RugbyNow is a full platform for rugby fans worldwide.
+Real match data. Live results. Competition standings.
+Designed, architected, and deployed entirely by me.
 
-Lo que implicó construirla:
-  ├── Diseñar un modelo de datos limpio para competencias, equipos, fixtures y resultados
-  ├── Diseñar APIs que sirvan datos de partidos rápido
-  ├── Construir una UI que funcione en cualquier dispositivo
-  └── Hacer el deploy y mantenerlo solo — sin equipo, sin atajos
+What it took to build it:
+  ├── Architecting a clean data model for competitions, teams, fixtures and results
+  ├── Designing APIs that serve match data fast
+  ├── Building a UI that works on any device
+  └── Shipping and maintaining it solo — no team, no shortcuts
 ```
 
 **Stack:**
@@ -78,32 +78,32 @@ Lo que implicó construirla:
 
 <div align="center">
 
-[![Visitar RugbyNow](https://img.shields.io/badge/🏉_Visitar_RugbyNow-74ACDF?style=for-the-badge&logoColor=white)](https://rugby-now.com)
+[![Visit RugbyNow](https://img.shields.io/badge/🏉_Visit_RugbyNow-74ACDF?style=for-the-badge&logoColor=white)](https://rugby-now.com)
 
 </div>
 
 ---
 
-## ◈ Otros Proyectos
+## ◈ Other Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚗 Sistema de Base de Datos de Autos
+### 🚗 Cars Database System
 **PHP · MySQL · Full-Stack**
 
-Sistema completo de gestión de vehículos con esquema relacional, operaciones CRUD y lógica de backend limpia.
+Full vehicle management system with relational DB schema, CRUD operations, and clean backend logic.
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitolop1/Cars_database)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitolop1/Cars_database)
 
 </td>
 <td width="50%">
 
-### 🏉 Portfolios de Jugadores de Rugby
+### 🏉 Rugby Athlete Portfolios
 **HTML · CSS · Responsive**
 
-Sitios web personales para jugadores de rugby profesionales. Live en GitHub Pages.
+Portfolio websites for professional rugby players. Live on GitHub Pages.
 
 [![Rocco](https://img.shields.io/badge/Rocco_Loprestti-74ACDF?style=flat-square&logoColor=white)](https://vitolop1.github.io/Rocco-Loprestti-Rugby/)
 [![Riordan](https://img.shields.io/badge/Riordan_Sweet-1B6CA8?style=flat-square&logoColor=white)](https://vitolop1.github.io/Riordan-Sweet/)
@@ -115,18 +115,18 @@ Sitios web personales para jugadores de rugby profesionales. Live en GitHub Page
 
 ---
 
-## ◈ Stack Técnico
+## ◈ Stack
 
 <div align="center">
 
-### Lenguajes
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Base de Datos y Herramientas
+### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -136,7 +136,7 @@ Sitios web personales para jugadores de rugby profesionales. Live en GitHub Page
 
 ---
 
-## ◈ Estadísticas de GitHub
+## ◈ GitHub Stats
 
 <div align="center">
 
@@ -147,39 +147,39 @@ Sitios web personales para jugadores de rugby profesionales. Live en GitHub Page
 
 ---
 
-## ◈ Historia
+## ◈ Background
 
 ```
-🇫🇷  Nacido en Francia
+🇫🇷  Born in France
         ↓
-🇦🇷  Criado en Salta, Argentina
+🇦🇷  Raised in Salta, Argentina
      → Hincha de Los Pumas 🏉 y Gimnasia y Tiro de Salta ⚽
-     → Estudié Ingeniería en Sistemas @ Universidad Católica de Córdoba
-     → 5+ años reparando PCs, armando hardware, configurando sistemas
+     → Studied Computer Engineering @ Catholic University of Córdoba
+     → 5+ years repairing PCs, assembling hardware, configuring systems
         ↓
-🇺🇸  Me transferí a la University of Lynchburg, Virginia
-     → Lancé RugbyNow
-     → Actualmente: CS · Backend · APIs · Sistemas
-     → Meta: Graduarme en 2026 · Fundar una empresa de tecnología
+🇺🇸  Transferred to University of Lynchburg, Virginia
+     → Shipped RugbyNow
+     → Currently: CS · Backend · APIs · Systems
+     → Target: Graduate 2026 · Launch a tech company
 ```
 
-💬 **3 idiomas:** Español (Nativo) · Inglés (Avanzado) · Francés (Fluido)
+💬 **3 languages:** Spanish (Native) · English (Advanced) · French (Fluent)
 
-🏉 **Jugador de rugby** — la misma disciplina que forma a un buen forward forma a un buen ingeniero.
+🏉 **Rugby player** — the same discipline that makes a good forward makes a good engineer.
 
 ---
 
-## ◈ Qué Estoy Buscando
+## ◈ What I'm Looking For
 
 ```
-  ✦  Pasantías de Ingeniería de Software
-  ✦  Roles Junior de Backend / Sistemas
-  ✦  Remoto o con relocalización — abierto a donde sea
-  ✦  Equipos construyendo productos reales a escala
+  ✦  Software Engineering Internships
+  ✦  Junior Backend / Systems Developer Roles
+  ✦  Remote or Relocation — open to anywhere
+  ✦  Teams building real products at scale
 ```
 
-Quiero contribuir a equipos de ingeniería reales, resolver problemas difíciles y crecer rápido.
-No le tengo miedo a los desafíos — de hecho, es exactamente donde quiero estar.
+I want to contribute to real engineering teams, solve hard problems, and grow fast.
+Not afraid of challenges — that's exactly where I want to be.
 
 ---
 
