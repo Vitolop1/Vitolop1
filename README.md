@@ -51,7 +51,7 @@ I've always learned by doing. **Fast.**
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+> *"Life is found in the simple things."*](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -144,29 +144,6 @@ Portfolio websites for professional rugby players. Live on GitHub Pages.
 
 </div>
 
----
-
-## ◈ Skill Levels
-
-```
-C++          ████████░░░░   65%   Systems & Architecture
-Python       ███████░░░░░   58%   Scripting & Automation
-PHP          ████████░░░░   65%   Backend & APIs
-MySQL        █████████░░░   75%   Database Design & Queries
-HTML / CSS   █████████░░░   75%   Frontend Markup & Styling
-Java         ██████░░░░░░   50%   OOP & Data Structures
-Git / Linux  ████████░░░░   65%   Version Control & CLI
-```
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vitolop1&theme=nord&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
