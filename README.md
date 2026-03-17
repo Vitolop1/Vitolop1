@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wavingtype=waving&color=0:74ACDF,32:FFFFFF,42:FDF3C0,46:F6C90E,54:FDF3C0,68:FFFFFF,100:74ACDFcolor=0:74ACDF,32:FFFFFF,42:FDF3C0,46:F6C90E,54:FDF3C0,68:FFFFFF,100:74ACDF&height=220&section=header&text=VITO%20LOPRESTTI&fontSize=56&fontColor=1B3A6B&fontAlignY=38&desc=Computer%20Science%20%7C%20Backend%20%7C%20Systems%20Engineering&descAlignY=58&descSize=17&descColor=1B3A6B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,50:AEDDFF,100:74ACDF&height=220&section=header&text=VITO%20LOPRESTTI&fontSize=56&fontColor=1B3A6B&fontAlignY=38&desc=Computer%20Science%20%7C%20Backend%20%7C%20Systems%20Engineering&descAlignY=58&descSize=17&descColor=1B3A6B&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -185,7 +185,7 @@ Not afraid of challenges — that's exactly where I want to be.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,50:FFFFFF,100:74ACDF&height=120&section=footer&fontColor=1B3A6B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,50:AEDDFF,100:74ACDF&height=120&section=footer&fontColor=1B3A6B" width="100%"/>
 
 **`lopresttivito@gmail.com`** · **[linkedin.com/in/vitoloprestti](https://linkedin.com/in/vitoloprestti)** · **[rugby-now.com](https://rugby-now.com)**
 
