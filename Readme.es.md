@@ -6,13 +6,13 @@
 
 <div align="center">
 
-> 🇦🇷 **[Ver en Español](Readme.es.md)**
+> 🇺🇸 **[View in English](README.md)**
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=1B6CA8&center=true&vCenter=true&width=650&lines=Raised+in+Argentina+%F0%9F%87%A6%F0%9F%87%B7+%7C+Studying+in+USA+%F0%9F%87%BA%F0%9F%87%B8;Pumas+fan+%F0%9F%8F%89+%7C+Gimnasia+y+Tiro+de+Salta+%E2%9D%A4%EF%B8%8F;Backend+%7C+APIs+%7C+Systems+Engineering;Three+countries.+One+goal.+Ship+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=1B6CA8&center=true&vCenter=true&width=650&lines=Criado+en+Argentina+%F0%9F%87%A6%F0%9F%87%B7+%7C+Estudiando+en+USA+%F0%9F%87%BA%F0%9F%87%B8;Hincha+de+Los+Pumas+%F0%9F%8F%89+y+Gimnasia+y+Tiro+%E2%9D%A4%EF%B8%8F;Backend+%7C+APIs+%7C+Programacion+de+Sistemas;Tres+paises.+Un+objetivo.+Construir+software.)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,58 +25,58 @@
 [![RugbyNow](https://img.shields.io/badge/rugby--now.com-74ACDF?style=for-the-badge&logo=vercel&logoColor=white)](https://rugby-now.com)
 [![GitHub](https://img.shields.io/badge/Vitolop1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitolop1)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=74ACDF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=74ACDF&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
 ---
 
-## ◈ About
+## ◈ Sobre mi
 
 ```
-CS Student @ University of Lynchburg, Virginia  (Class of 2026)
-Raised in Argentina 🇦🇷  →  Now building in the USA 🇺🇸
-3 countries · 3 languages · 1 obsession: shipping real software
+Estudiante de CS @ University of Lynchburg, Virginia  (Graduacion 2026)
+Criado en Argentina 🇦🇷  →  Construyendo en USA 🇺🇸
+3 paises · 3 idiomas · 1 obsesion: construir software real
 ```
 
-I don't just want to write code — I want to **understand the machine**.
-From assembling PCs in Salta to shipping production systems in Virginia,
-I've always learned by doing. **Fast.**
+No solo quiero escribir codigo — quiero **entender la maquina**.
+Desde armar PCs en Salta hasta hacer deploy de sistemas en produccion en Virginia,
+siempre aprendi haciendo. **Rapido.**
 
-**Currently focused on:** Backend architecture · APIs · Systems programming · Database design
+**Enfocado actualmente en:** Arquitectura backend · APIs · Programacion de sistemas · Bases de datos
 
 ---
 
-## ◈ Quote of the Day
+## ◈ Frase del Dia
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+> *"Life is found in the simple things."*](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-## ◈ Featured Project — RugbyNow 🏉
+## ◈ Proyecto Destacado — RugbyNow 🏉
 
 <div align="center">
 
 ### 🔗 [rugby-now.com](https://rugby-now.com)
 
-**Live rugby results, fixtures & competition data — built solo, shipped to production.**
+**Resultados en vivo, fixtures y datos de competencias de rugby — construido solo, en produccion.**
 
 </div>
 
 ```
-RugbyNow is a full platform for rugby fans worldwide.
-Real match data. Live results. Competition standings.
-Designed, architected, and deployed entirely by me.
+RugbyNow es una plataforma completa para fanaticos del rugby de todo el mundo.
+Datos de partidos reales. Resultados en vivo. Tablas de posiciones.
+Disenada, arquitectada y desplegada enteramente por mi.
 
-What it took to build it:
-  ├── Architecting a clean data model for competitions, teams, fixtures and results
-  ├── Designing APIs that serve match data fast
-  ├── Building a UI that works on any device
-  └── Shipping and maintaining it solo — no team, no shortcuts
+Lo que implico construirla:
+  ├── Disenar un modelo de datos limpio para competencias, equipos, fixtures y resultados
+  ├── Disenar APIs que sirvan datos de partidos rapido
+  ├── Construir una UI que funcione en cualquier dispositivo
+  └── Hacer el deploy y mantenerlo solo — sin equipo, sin atajos
 ```
 
 **Stack:**
@@ -88,32 +88,32 @@ What it took to build it:
 
 <div align="center">
 
-[![Visit RugbyNow](https://img.shields.io/badge/🏉_Visit_RugbyNow-74ACDF?style=for-the-badge&logoColor=white)](https://rugby-now.com)
+[![Visitar RugbyNow](https://img.shields.io/badge/🏉_Visitar_RugbyNow-74ACDF?style=for-the-badge&logoColor=white)](https://rugby-now.com)
 
 </div>
 
 ---
 
-## ◈ Other Projects
+## ◈ Otros Proyectos
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚗 Cars Database System
+### 🚗 Sistema de Base de Datos de Autos
 **PHP · MySQL · Full-Stack**
 
-Full vehicle management system with relational DB schema, CRUD operations, and clean backend logic.
+Sistema completo de gestion de vehiculos con esquema relacional, operaciones CRUD y logica de backend limpia.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitolop1/Cars_database)
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitolop1/Cars_database)
 
 </td>
 <td width="50%">
 
-### 🏉 Rugby Athlete Portfolios
+### 🏉 Portfolios de Jugadores de Rugby
 **HTML · CSS · Responsive**
 
-Portfolio websites for professional rugby players. Live on GitHub Pages.
+Sitios web personales para jugadores de rugby profesionales. Live en GitHub Pages.
 
 [![Rocco](https://img.shields.io/badge/Rocco_Loprestti-74ACDF?style=flat-square&logoColor=white)](https://vitolop1.github.io/Rocco-Loprestti-Rugby/)
 [![Riordan](https://img.shields.io/badge/Riordan_Sweet-1B6CA8?style=flat-square&logoColor=white)](https://vitolop1.github.io/Riordan-Sweet/)
@@ -125,18 +125,18 @@ Portfolio websites for professional rugby players. Live on GitHub Pages.
 
 ---
 
-## ◈ Stack
+## ◈ Stack Tecnico
 
 <div align="center">
 
-### Languages
+### Lenguajes
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Database & Tools
+### Base de Datos y Herramientas
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -144,33 +144,10 @@ Portfolio websites for professional rugby players. Live on GitHub Pages.
 
 </div>
 
----
-
-## ◈ Skill Levels
-
-```
-C++          ████████░░░░   65%   Systems & Architecture
-Python       ███████░░░░░   58%   Scripting & Automation
-PHP          ████████░░░░   65%   Backend & APIs
-MySQL        █████████░░░   75%   Database Design & Queries
-HTML / CSS   █████████░░░   75%   Frontend Markup & Styling
-Java         ██████░░░░░░   50%   OOP & Data Structures
-Git / Linux  ████████░░░░   65%   Version Control & CLI
-```
 
 ---
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vitolop1&theme=nord&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ◈ GitHub Stats
+## ◈ Estadisticas de GitHub
 
 <div align="center">
 
@@ -187,7 +164,7 @@ Git / Linux  ████████░░░░   65%   Version Control & CLI
 
 ---
 
-## ◈ Contribution Snake 🐍
+## ◈ Serpiente de Contribuciones 🐍
 
 <div align="center">
 
@@ -201,49 +178,49 @@ Git / Linux  ████████░░░░   65%   Version Control & CLI
 
 ---
 
-## ◈ Activity Graph
+## ◈ Grafico de Actividad
 
 <div align="center">
 
-[![Vito's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitolop1&theme=nord&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grafico de actividad de Vito](https://github-readme-activity-graph.vercel.app/graph?username=Vitolop1&theme=nord&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## ◈ Background
+## ◈ Historia
 
 ```
-🇫🇷  Born in France
+🇫🇷  Nacido en Francia
         ↓
-🇦🇷  Raised in Salta, Argentina
+🇦🇷  Criado en Salta, Argentina
      → Hincha de Los Pumas 🏉 y Gimnasia y Tiro de Salta ⚽
-     → Studied Computer Engineering @ Catholic University of Córdoba
-     → 5+ years repairing PCs, assembling hardware, configuring systems
+     → Estudie Ingenieria en Sistemas @ Universidad Catolica de Cordoba
+     → 5+ anos reparando PCs, armando hardware, configurando sistemas
         ↓
-🇺🇸  Transferred to University of Lynchburg, Virginia
-     → Shipped RugbyNow
-     → Currently: CS · Backend · APIs · Systems
-     → Target: Graduate 2026 · Launch a tech company
+🇺🇸  Me transieri a la University of Lynchburg, Virginia
+     → Lance RugbyNow
+     → Actualmente: CS · Backend · APIs · Sistemas
+     → Meta: Graduarme en 2026 · Fundar una empresa de tecnologia
 ```
 
-💬 **3 languages:** Spanish (Native) · English (Advanced) · French (Fluent)
+💬 **3 idiomas:** Espanol (Nativo) · Ingles (Avanzado) · Frances (Fluido)
 
-🏉 **Rugby player** — the same discipline that makes a good forward makes a good engineer.
+🏉 **Jugador de rugby** — la misma disciplina que forma a un buen forward forma a un buen ingeniero.
 
 ---
 
-## ◈ What I'm Looking For
+## ◈ Que Estoy Buscando
 
 ```
-  ✦  Software Engineering Internships
-  ✦  Junior Backend / Systems Developer Roles
-  ✦  Remote or Relocation — open to anywhere
-  ✦  Teams building real products at scale
+  ✦  Pasantias de Ingenieria de Software
+  ✦  Roles Junior de Backend / Sistemas
+  ✦  Remoto o con relocalizacion — abierto a donde sea
+  ✦  Equipos construyendo productos reales a escala
 ```
 
-I want to contribute to real engineering teams, solve hard problems, and grow fast.
-Not afraid of challenges — that's exactly where I want to be.
+Quiero contribuir a equipos de ingenieria reales, resolver problemas dificiles y crecer rapido.
+No le tengo miedo a los desafios — de hecho, es exactamente donde quiero estar.
 
 ---
 
