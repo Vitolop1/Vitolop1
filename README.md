@@ -47,6 +47,16 @@ I've always learned by doing. **Fast.**
 
 ---
 
+## ◈ Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
 ## ◈ Featured Project — RugbyNow 🏉
 
 <div align="center">
@@ -136,12 +146,66 @@ Portfolio websites for professional rugby players. Live on GitHub Pages.
 
 ---
 
+## ◈ Skill Levels
+
+```
+C++          ████████░░░░   65%   Systems & Architecture
+Python       ███████░░░░░   58%   Scripting & Automation
+PHP          ████████░░░░   65%   Backend & APIs
+MySQL        █████████░░░   75%   Database Design & Queries
+HTML / CSS   █████████░░░   75%   Frontend Markup & Styling
+Java         ██████░░░░░░   50%   OOP & Data Structures
+Git / Linux  ████████░░░░   65%   Version Control & CLI
+```
+
+---
+
+## ◈ GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vitolop1&theme=nord&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## ◈ GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=default&hide_border=true&bg_color=EAF4FB&title_color=1B6CA8&icon_color=74ACDF&text_color=1B3A6B"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=default&hide_border=true&bg_color=EAF4FB&title_color=1B6CA8&text_color=1B3A6B"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vitolop1&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitolop1&show_icons=true&theme=nord&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitolop1&layout=compact&theme=nord&hide_border=true"/>
+
+</div>
+
+---
+
+## ◈ Contribution Snake 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitolop1/Vitolop1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitolop1/Vitolop1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vitolop1/Vitolop1/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## ◈ Activity Graph
+
+<div align="center">
+
+[![Vito's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitolop1&theme=nord&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
