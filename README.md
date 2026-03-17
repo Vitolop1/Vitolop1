@@ -6,7 +6,7 @@
 
 <div align="center">
 
-> 🇦🇷 **[Ver en Español](README.es.md)**
+> 🇦🇷 **[Ver en Español](Readme.es.md)**
 
 </div>
 
