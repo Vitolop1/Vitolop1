@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Born+in+France+🇫🇷;+Raised+in+Argentina+🇦🇷;+Building+in+the+USA+🇺🇸;+Three+countries.+One+goal.+Ship+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Criado+en+Argentina+%F0%9F%87%A6%F0%9F%87%B7+%7C+Estudiando+en+USA+%F0%9F%87%BA%F0%9F%87%B8;Pumas+fan+%F0%9F%8F%89+%7C+Gimnasia+y+Tiro+de+Salta+%E2%9D%A4%EF%B8%8F;Backend+%7C+APIs+%7C+Systems+Engineering;Three+countries.+One+goal.+Ship+software.)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 [![Email](https://img.shields.io/badge/lopresttivito%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopresttivito@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Vito_Loprestti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoloprestti)
-[![Portfolio](https://img.shields.io/badge/rugby--now.com-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://rugby-now.com)
+[![RugbyNow](https://img.shields.io/badge/rugby--now.com-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://rugby-now.com)
 [![GitHub](https://img.shields.io/badge/Vitolop1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitolop1)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vitolop1&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
@@ -28,16 +28,14 @@
 ## ◈ About
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  CS Student @ University of Lynchburg, Virginia  (Class of 2026) ║
-║  🇫🇷 Born in France  →  🇦🇷 Raised in Argentina  →  🇺🇸 Now in USA ║
-║  3 countries · 3 languages · 1 obsession: building real software  ║
-╚══════════════════════════════════════════════════════════════════╝
+CS Student @ University of Lynchburg, Virginia  (Class of 2026)
+Raised in Argentina 🇦🇷  →  Now building in the USA 🇺🇸
+3 countries · 3 languages · 1 obsession: shipping real software
 ```
 
 I don't just want to write code — I want to **understand the machine**.
-From assembling PCs in Argentina to shipping production systems in the US,
-I've always learned by doing. Fast.
+From assembling PCs in Salta to shipping production systems in Virginia,
+I've always learned by doing. **Fast.**
 
 **Currently focused on:** Backend architecture · APIs · Systems programming · Database design
 
@@ -47,27 +45,22 @@ I've always learned by doing. Fast.
 
 <div align="center">
 
-### [`rugby-now.com`](https://rugby-now.com)
+### 🔗 [rugby-now.com](https://rugby-now.com)
+
+**Live rugby results, fixtures & competition data — built solo, shipped to production.**
 
 </div>
 
-> **Live rugby results, fixtures & competition data — built solo, shipped to production.**
-
 ```
-╭─────────────────────────────────────────────────────────────────╮
-│                                                                   │
-│   RugbyNow is a full platform for rugby fans worldwide.           │
-│   Real match data. Live results. Competition standings.           │
-│   Designed, architected, and deployed entirely by me.             │
-│                                                                   │
-│   What it took to build it:                                       │
-│   ├── Architecting a clean data model for competitions            │
-│   │   teams, fixtures, and results                                │
-│   ├── Designing APIs that serve match data fast                   │
-│   ├── Building a UI that works on any device                      │
-│   └── Shipping and maintaining it solo — no team, no shortcuts    │
-│                                                                   │
-╰─────────────────────────────────────────────────────────────────╯
+RugbyNow is a full platform for rugby fans worldwide.
+Real match data. Live results. Competition standings.
+Designed, architected, and deployed entirely by me.
+
+What it took to build it:
+  ├── Architecting a clean data model for competitions, teams, fixtures and results
+  ├── Designing APIs that serve match data fast
+  ├── Building a UI that works on any device
+  └── Shipping and maintaining it solo — no team, no shortcuts
 ```
 
 **Stack:**
@@ -77,7 +70,11 @@ I've always learned by doing. Fast.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[![Visit RugbyNow](https://img.shields.io/badge/🏉_Visit_RugbyNow-00B4D8?style=for-the-badge)](https://rugby-now.com)
+<div align="center">
+
+[![Visit RugbyNow](https://img.shields.io/badge/🏉_Visit_RugbyNow-00B4D8?style=for-the-badge&logoColor=white)](https://rugby-now.com)
+
+</div>
 
 ---
 
@@ -92,7 +89,7 @@ I've always learned by doing. Fast.
 
 Full vehicle management system with relational DB schema, CRUD operations, and clean backend logic.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Vitolop1/Cars_database)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitolop1/Cars_database)
 
 </td>
 <td width="50%">
@@ -100,10 +97,10 @@ Full vehicle management system with relational DB schema, CRUD operations, and c
 ### 🏉 Rugby Athlete Portfolios
 **HTML · CSS · Responsive**
 
-Deployed personal portfolio websites for professional rugby players. Live on GitHub Pages.
+Portfolio websites for professional rugby players. Live on GitHub Pages.
 
-[![Rocco](https://img.shields.io/badge/Rocco_Loprestti-00B4D8?style=flat-square)](https://vitolop1.github.io/Rocco-Loprestti-Rugby/)
-[![Riordan](https://img.shields.io/badge/Riordan_Sweet-0096B7?style=flat-square)](https://vitolop1.github.io/Riordan-Sweet/)
+[![Rocco](https://img.shields.io/badge/Rocco_Loprestti-00B4D8?style=flat-square&logoColor=white)](https://vitolop1.github.io/Rocco-Loprestti-Rugby/)
+[![Riordan](https://img.shields.io/badge/Riordan_Sweet-0096B7?style=flat-square&logoColor=white)](https://vitolop1.github.io/Riordan-Sweet/)
 [![Oliver](https://img.shields.io/badge/Oliver_Fussell-0A1628?style=flat-square&logoColor=white)](https://vitolop1.github.io/Oliver-Fussell/)
 
 </td>
@@ -148,36 +145,35 @@ Deployed personal portfolio websites for professional rugby players. Live on Git
 
 ```
 🇫🇷  Born in France
-       ↓
-🇦🇷  Grew up in Argentina
+        ↓
+🇦🇷  Raised in Salta, Argentina
+     → Hincha de Los Pumas 🏉 y Gimnasia y Tiro de Salta ⚽
      → Studied Computer Engineering @ Catholic University of Córdoba
      → 5+ years repairing PCs, assembling hardware, configuring systems
-       ↓
+        ↓
 🇺🇸  Transferred to University of Lynchburg, Virginia
      → Shipped RugbyNow
      → Currently: CS · Backend · APIs · Systems
      → Target: Graduate 2026 · Launch a tech company
 ```
 
-**3 languages:** Spanish (Native) · English (Advanced) · French (Fluent)
+💬 **3 languages:** Spanish (Native) · English (Advanced) · French (Fluent)
 
-**Rugby player** — the same discipline that makes a good forward makes a good engineer.
+🏉 **Rugby player** — the same discipline that makes a good forward makes a good engineer.
 
 ---
 
 ## ◈ What I'm Looking For
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  ✦  Software Engineering Internships                 │
-│  ✦  Junior Backend / Systems Developer Roles         │
-│  ✦  Remote or Relocation — open to anywhere          │
-│  ✦  Teams building real products at scale            │
-└─────────────────────────────────────────────────────┘
+  ✦  Software Engineering Internships
+  ✦  Junior Backend / Systems Developer Roles
+  ✦  Remote or Relocation — open to anywhere
+  ✦  Teams building real products at scale
 ```
 
 I want to contribute to real engineering teams, solve hard problems, and grow fast.
-Not afraid of challenges. Actually, that's exactly where I want to be.
+Not afraid of challenges — that's exactly where I want to be.
 
 ---
 
