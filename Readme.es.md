@@ -47,7 +47,7 @@ siempre aprendi haciendo. **Rapido.**
 
 ---
 
-## ◈ Frase del Dia
+## ◈ Una Frase que me Gusta
 
 <div align="center">
 
@@ -162,19 +162,6 @@ Sitios web personales para jugadores de rugby profesionales. Live en GitHub Page
 
 </div>
 
----
-
-## ◈ Serpiente de Contribuciones 🐍
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitolop1/Vitolop1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitolop1/Vitolop1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vitolop1/Vitolop1/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
