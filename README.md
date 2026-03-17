@@ -6,7 +6,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Criado+en+Argentina+%F0%9F%87%A6%F0%9F%87%B7+%7C+Estudiando+en+USA+%F0%9F%87%BA%F0%9F%87%B8;Pumas+fan+%F0%9F%8F%89+%7C+Gimnasia+y+Tiro+de+Salta+%E2%9D%A4%EF%B8%8F;Backend+%7C+APIs+%7C+Systems+Engineering;Three+countries.+One+goal.+Ship+software.)](https://git.io/typing-svg)
+> 🇦🇷 **[Ver en Español](README.es.md)**
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Raised+in+Argentina+%F0%9F%87%A6%F0%9F%87%B7+%7C+Studying+in+USA+%F0%9F%87%BA%F0%9F%87%B8;Pumas+fan+%F0%9F%8F%89+%7C+Gimnasia+y+Tiro+de+Salta+%E2%9D%A4%EF%B8%8F;Backend+%7C+APIs+%7C+Systems+Engineering;Three+countries.+One+goal.+Ship+software.)](https://git.io/typing-svg)
 
 </div>
 
